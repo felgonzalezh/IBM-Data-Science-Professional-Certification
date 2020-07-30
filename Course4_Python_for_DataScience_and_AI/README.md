@@ -1,14 +1,14 @@
 Week1: Python Basics
 
-Types, \n
-Expressions and Variables, \n
+Types, 
+Expressions and Variables, 
 String Operations
 
 Week 2: Python Data Structures
 
-Tuples, \n
-Lists, \n
-Sets, \n
+Tuples, 
+Lists, 
+Sets, 
 Dictionaries
 
 Week 3: Python Programming Fundamentals
