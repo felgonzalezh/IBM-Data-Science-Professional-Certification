@@ -6,3 +6,6 @@ Different models.
 
 Week2: Regression:
 SLR: Simple Linear Regression and metrics. 
+MLR: Multiple Linear Regression
+Polynomial Regressions
+non-liner Regressions
