@@ -14,3 +14,4 @@ Week3: Classification:
 K-Nearest Neighbors.
 Decision Trees.
 Logistic Regression.
+Support Vector Machine (SVM).
