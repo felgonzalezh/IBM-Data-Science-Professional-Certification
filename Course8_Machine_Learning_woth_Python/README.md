@@ -13,4 +13,4 @@ non-liner Regressions
 Week3: Classification:
 K-Nearest Neighbors.
 Decision Trees.
-
+Logistic Regression.
