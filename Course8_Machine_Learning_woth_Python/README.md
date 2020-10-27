@@ -9,3 +9,8 @@ SLR: Simple Linear Regression and metrics.
 MLR: Multiple Linear Regression
 Polynomial Regressions
 non-liner Regressions
+
+Week3: Classification:
+K-Nearest Neighbors.
+Decision Trees.
+
